@@ -6,7 +6,7 @@
 /*   By: dphefadu <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/22 09:04:08 by dphefadu          #+#    #+#             */
-/*   Updated: 2020/06/22 14:41:49 by dphefadu         ###   ########.fr       */
+/*   Updated: 2020/06/25 07:51:05 by dphefadu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include<unistd.h>
@@ -37,15 +37,6 @@ void ft_printcombo2(void)
 		a++;
 	}
 }	
-
-int main (void)
-{
-	ft_printcombo2();
-	return 0;
-}
-
-
-
 
 
 
