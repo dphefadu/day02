@@ -6,7 +6,7 @@
 /*   By: dphefadu <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/19 10:25:42 by dphefadu          #+#    #+#             */
-/*   Updated: 2020/06/21 10:27:32 by event            ###   ########.fr       */
+/*   Updated: 2020/06/25 07:46:57 by dphefadu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,12 +26,6 @@ void   ft_print_alphabet(void)
 		 ft_putchar(printletters);
 		 printletters++;
 	 }
-}
-
-int main (void){
-
-	ft_print_alphabet();
-	return(0);
 }
 
 
